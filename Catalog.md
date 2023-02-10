@@ -120,9 +120,14 @@
 ||[brandlogo_lifestyle_sportmaster.svg](/assets/Lifestyle/brandlogo_lifestyle_sportmaster.svg)|:ballot_box_with_check: `done`|
 ||[brandlogo_lifestyle_yandex-afisha.svg](/assets/Lifestyle/brandlogo_lifestyle_yandex-afisha.svg)|:ballot_box_with_check: `done`|
 |[**Pets**](/assets/Pets/)|Empty| `empty`|
-|[**Realty**](/assets/Realty/)||:ballot_box_with_check: `done`|
-|[**Repairs**](/assets/Repairs/)||:ballot_box_with_check: `done`|
-|[**Techs**](/assets/Techs/)||:ballot_box_with_check: `done`|
+|[**Realty**](/assets/Realty/)|[brandlogo_realty_cian.svg](/assets/Realty/brandlogo_realty_cian.svg)|:ballot_box_with_check: `done`|
+|[**Repairs**](/assets/Repairs/)|[brandlogo_repairs_ikea.svg](/assets/Repairs/brandlogo_repairs_ikea.svg)|:ballot_box_with_check: `done`|
+||[brandlogo_repairs_maxidom.svg](/assets/Repairs/brandlogo_repairs_maxidom.svg)|:ballot_box_with_check: `done`|
+|[**Techs**](/assets/Techs/)|[brandlogo_techs_dns.svg](/assets/Techs/brandlogo_techs_dns.svg)|:ballot_box_with_check: `done`|
+||[brandlogo_techs_m-video.svg](/assets/Techs/brandlogo_techs_m-video.svg)|:ballot_box_with_check: `done`|
+||[brandlogo_techs_mi-shop.svg](/assets/Techs/brandlogo_techs_mi-shop.svg)|:ballot_box_with_check: `done`|
+||[brandlogo_techs_philips.svg](/assets/Techs/brandlogo_techs_philips.svg)|:ballot_box_with_check: `done`|
+||[brandlogo_techs_technopark.svg](/assets/Techs/brandlogo_techs_technopark.svg)|:ballot_box_with_check: `done`|
 |[**Telecom**](/assets/Telecom/)||:ballot_box_with_check: `done`|
 |[**Transportation**](/assets/Transportation/)|[brandlogo_transportation_cdek.svg](/assets/Transportation/brandlogo_transportation_cdek.svg)|:ballot_box_with_check: `done`|
 ||[brandlogo_transportation_moscow-transport.svg](/assets/Transportation/brandlogo_transportation_moscow-transport.svg)|:ballot_box_with_check: `done`|
