@@ -156,4 +156,3 @@
 ||[brandlogo_travel_s7.svg](/assets/Travel/brandlogo_travel_s7.svg)|:ballot_box_with_check: `done`|
 ||[brandlogo_travel_utair.svg](/assets/Travel/brandlogo_travel_utair.svg)|:ballot_box_with_check: `done`|
 |[**Utilities**](/assets/Utilities/)|Empty| `empty`|
-|||:ballot_box_with_check: `done`|
